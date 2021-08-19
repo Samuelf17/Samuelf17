@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuelf17
 - 👀 I’m interested intae ...
-- 🌱 I’m currently learning the language Python
+- 🌱 I’m currently learning the language C++
 - 💞️ I’m looking to collaborate in ...
 - 📫 How to reach me  email: samuelopes3003@gmail.com
 
