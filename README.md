@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Samuelf17
-- 👀 I’m interested intae ...
-- 🌱 I’m currently learning the JavaScript language and the agile Scrum methodology 
-- 💞️ I’m looking to collaborate on creating simple solutions to complex problems
-- 📫 How to reach me  email: samuelopes3003@gmail.com
-
-<!---
-Samuelf17/Samuelf17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, meu nome é Samuel
+- 👀 Entre os meus interesse estão [animes,
+                                  livros de fantasia e ficção científica,   
+                                  jogos de RPG.]
+- 🌱Atualmente estou me aperfeiçoando em JavaScript, HTML5 e CSS3
+- 💞️ Estou procurando colaborar na criação de soluções simples para problemas complexos
+- 📫 Para entrar em contato comigo o  meu email: samuelopes3003@gmail.com
